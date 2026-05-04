@@ -15,6 +15,8 @@ Use CTAS (Create Table As Select): Create new tables using the results of existi
 Write Advanced SQL Queries: Write complex SQL queries to find and analyze useful information from the database.
 
 Database Structure Overview
+<img width="1920" height="1080" alt="library_db ERD diagram" src="https://github.com/user-attachments/assets/0d85dc4a-fda6-4ada-9370-1ae56fb37858" />
+
 The database consists of the following main entities:
 Branch: Stores information about library branches.
 Employees: Contains details of employees working in each branch.
